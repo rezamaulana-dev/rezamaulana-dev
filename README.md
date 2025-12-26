@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=460&lines=Dark+Mode+Developer;Learning+Web+Development;Building+Skills+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=460&lines=Game+Development;Learning+Web+Development;Building+Skills+Every+Day" />
 </p>
 
 ---
