@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#38BDF8">Reza</span> <span style="color:#22C55E">Pahlevi</span>
+  <span style="color:#38BDF8">Reza</span> <span style="color:#22C55E">Maulana</span>
 </h1>
 
 <h3 align="center" style="color:#A78BFA">
@@ -36,6 +36,4 @@
 
 ---
 
-<p align="center" style="color:#64748B">
-  <i>⚡ Dark mode, clean code, real skills.</i>
-</p>
+
